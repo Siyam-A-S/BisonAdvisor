@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("About us)
+st.title("About us")
 
 
 st.button("Reset", type="primary")
