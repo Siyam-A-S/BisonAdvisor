@@ -3,11 +3,9 @@ import streamlit as st
 st.title("About us")
 
 
-st.text("Welcome to BisonAdvisor - your academic compass in the journey through Howard University!"
+st.write("Welcome to BisonAdvisor - your academic compass in the journey through Howard University!"
         " At BisonAdvisor, we are committed to revolutionizing the undergraduate advising experience through cutting-edge technology and personalized support. Our service is meticulously")
-st.write("About Us/n"
-        " Vision /n "
-         "At BisonAdvisor, we envision a future where academic advising transcends traditional boundaries, becoming an empowering and accessible force for every student at Howard University. We strive to harness the power of generative AI to streamline and enhance the advising process, making it a personalized, efficient, and 24/7 accessible service. /n"
+st.write("At BisonAdvisor, we envision a future where academic advising transcends traditional boundaries, becoming an empowering and accessible force for every student at Howard University. We strive to harness the power of generative AI to streamline and enhance the advising process, making it a personalized, efficient, and 24/7 accessible service. /n"
         
 
         "Mission /n"
