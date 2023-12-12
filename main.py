@@ -19,8 +19,8 @@ def main_app():
 
     with st.sidebar:
         selected = option_menu("Main Menu",
-                               ["My Profile", 'ChatBot', 'Registration Form Generator', 'Checklist',
-                                'Self Service Resources'],
+                               ["My Profile", 'SmartChatbot', 'Registration Form Generator', 'Checklist',
+                                'Resources'],
                                icons=['file-person', 'chat-dots', 'file-earmark-text', 'card-checklist', 'info-circle'],
                                menu_icon="cast",
                                default_index=0)
