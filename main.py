@@ -3,7 +3,6 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import login
 import openai
-from dotenv import load_dotenv
 import os
 
 
@@ -17,9 +16,7 @@ def main_app():
         "email": "john.doe@example.com"
     }
 
-    load_dotenv()  # Load environment variables
-    openai.api_key = os.getenv("OPENAI_API_KEY")
-    profile_image_url = "Unknown"  # Replace with the actual path or URL
+
 
     with st.sidebar:
         selected = option_menu("Main Menu",
