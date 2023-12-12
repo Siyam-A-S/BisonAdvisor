@@ -30,7 +30,7 @@ def main_app():
         st.subheader("User Profile")
         col1, col2 = st.columns(2)
         with col1:  # Profile picture column
-            st.image("profile_image.jpg", width=100)  # Adjust width as needed
+            st.image("profile_image", width=100)  # Adjust width as needed
         col1.metric("Name", f"{user_details['first_name']} {user_details['last_name']}")
         with col2:
             update_profile = st.button("Update Profile")
