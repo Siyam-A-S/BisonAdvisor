@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bison-adivising",
+  "private_key_id": "aeae785690d3c0e7956f69cd4f7ce85fee54d596",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwvRtWusxIv0kW\nQRPiwY4ABBPXLNvUnPZKqJ5YNQxOyThNu8tJRCAmprFcwNHamfNPz7CUV7FhFPtY\nmphi/Kh5BaghTY7W+kbLM4YCLXoSE1tCES5lVV0wV+i1Zpm9yLBrgwOUBN8HzGWL\np4AhYVeCJV+gnBRKXtaP9R+/8vttz9G34BcAbnSmV6Mz0ZUeefvX0XiJA4CMhma7\neFo4hmJOM6hTkxT7ZsGJjnSc1CTTkHAVOoZLmv1s3cHbsm7Qoe/SOrkcNQ0KgMz8\ni+41levp5Ea5soSMxBEBF0Ly3sqUL2dwXzuOLBo+afdtdliphD2GYlIAXSMGpvWJ\ngbfpZYANAgMBAAECggEABdniNictrNmLAuND/vAnfP/65CxxBANE8sh4TYqcDgkC\nsILKF8fbRKGkzOGj+5e4gr4+e1AX6D3jQFYF5ikKhCSCzMTI43xvrDnYHZRXLpKu\nJRbKhsJNDn+qjZmITMyAbV7DVzrTY2pfO5YKW5CMbsZBTzY7mbwKtcNeD2MXndVY\nSUX98ZLeL5BS6t3zH9e4NZFYJakZKTYzvgXT5JXkPyevAVWygkTCvIb3wKbGHaH1\nJTa2/trfyE1JcxKO2GWp61fFufBaLoM/qnM2PSZ2JRP9VY7+0ObQrcN4qYYjEWql\nvlfslU1dS0cTJQfAyUKVMcNEwqPRIpc3nSazD7aDpQKBgQDyHZ3/RGlYzGmDD3Cv\n6fLLbDBi6SYPUn2MQn2SI1EUx7UOEuyAos4GIOnDGSKXR9q6zbREA9Gd2zFYR4zB\n0gQTi8BtSZQ6s1FC5ZUUTY8VICSd6bJyMekexqdbxXhfhCvefT/Y+tYBepDw0krC\nBz9TjwwZJPdnQPFFtZUucPUDswKBgQC637jD+R82i3wrK93tStjA9tT+naIxW3Yy\nWVSK/mIAbsljvSBdNY+bXCvWkawdDYetv0MO7TmBzgl/NQvEUprppZM5LM2QrNXY\neI6LhJiZ4XLqvmuOYAL+lpv7Mmsvm9OmuUSPiuLyQ4Je9/ZRVSN4EIg6SKC3R6eA\n+0GpZbCNPwKBgD/lsRz9YRAeYnpESOkkRP+Kvfpcrb69doTdx2YaC/v/+LiOJfyM\n+vKDHS5wI8DpJcDHKRwKJfgTMSKrP2qnkovWBiLRmF0llfyhuoZxMaHRqdhDJOUe\nZvfIVcLSisIqj6lYRNFu4aviPP5RgYlTgFL9HaRFLUYCzaooEgb/qKohAoGBAKPt\nsVUoajsc7RWp64pHSBEt9fZNLYSCqRLNzh4HvMyIYt29gHCDlbBBkKsvKn5p6gV+\nbELh0rqNlUMjs2jK1d30Q0u6g7FQDF9SkijNblg+ruJBnHROwRG36KjYt7IRzf7J\nMt2Ahkji87B/cHI0b2LZjccjAukEUGoS/qys6c1dAoGAAs/GI2G9Wj9yWVf99lF4\n5xnKMCDB3+gGMVGtwVVskinLujBAQjVBx3Rj/icf7KOBBVSNsgn2LzwTXTMDUKTQ\n8fZ00cWdQd8SptU5Hci3bnrNSKZbASmskdr0pWC1zBQ7yF3AVlmLT85ezNAp5j2s\nN6a7uExxpuuEytTB4vtYpvI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n27sy@bison-adivising.iam.gserviceaccount.com",
+  "client_id": "106309404114902352706",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n27sy%40bison-adivising.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
