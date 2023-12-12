@@ -5,7 +5,7 @@ from firebase_admin import credentials
 from firebase_admin import auth
 
 cred = credentials.Certificate('bison-adivising-aeae785690d3.json')
-firebase_admin.initialize_app(cred)
+#firebase_admin.initialize_app(cred)
 
 def app():
 #username = []
