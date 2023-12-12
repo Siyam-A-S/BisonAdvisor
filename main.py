@@ -15,12 +15,10 @@ def main_app():
         "email": "john.doe@example.com"
     }
 
-
-
     with st.sidebar:
         selected = option_menu("Main Menu",
-                               ["My Profile", 'SmartChatbot', 'Registration Form Generator', 'Checklist',
-                                'Resources'],
+                               ["My Profile", 'ChatBot', 'Registration Form Generator', 'Checklist',
+                                'Self Service Resources'],
                                icons=['file-person', 'chat-dots', 'file-earmark-text', 'card-checklist', 'info-circle'],
                                menu_icon="cast",
                                default_index=0)
@@ -32,7 +30,7 @@ def main_app():
         st.subheader("User Profile")
         col1, col2 = st.columns(2)
         with col1:  # Profile picture column
-            st.image(profile_image_url, width=100)  # Adjust width as needed
+            st.image("profile_image.png", width=100)  # Adjust width as needed
         col1.metric("Name", f"{user_details['first_name']} {user_details['last_name']}")
         with col2:
             update_profile = st.button("Update Profile")
