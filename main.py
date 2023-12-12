@@ -6,7 +6,7 @@ import openai
 
 
 def main_app():
-    current_user_username = "sasheo"
+    current_user_username = "siyam"
     current_user = None
     st.set_page_config(page_title="Bison Advisor", layout="wide")
     user_details = {
