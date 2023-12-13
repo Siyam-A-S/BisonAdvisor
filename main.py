@@ -6,13 +6,13 @@ import openai
 
 
 def main_app():
-    current_user_username = "sasheo"
+    current_user_username = "siyam"
     current_user = None
     st.set_page_config(page_title="Bison Advisor", layout="wide")
     user_details = {
-        "first_name": "John",
-        "last_name": "Doe",
-        "email": "john.doe@example.com"
+        "first_name": "Malcom",
+        "last_name": "X",
+        "email": "MalcomX@example.com"
     }
 
     with st.sidebar:
@@ -30,7 +30,7 @@ def main_app():
         st.subheader("User Profile")
         col1, col2 = st.columns(2)
         with col1:  # Profile picture column
-            st.image("https://drive.google.com/file/d/13R4dC8kGH34oPF-_3Iiz4oSvWkElBM-1/view?usp=drive_link", width=100)  # Adjust width as needed
+            st.image(https://drive.google.com/file/d/13R4dC8kGH34oPF-_3Iiz4oSvWkElBM-1/view?usp=drive_link, width=100)  # Adjust width as needed
         col1.metric("Name", f"{user_details['first_name']} {user_details['last_name']}")
         with col2:
             update_profile = st.button("Update Profile")
