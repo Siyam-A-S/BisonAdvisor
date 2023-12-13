@@ -119,8 +119,8 @@ def main_app():
         st.header("Checklist")
 
 
-    elif selected == "Self Service Resources":
-        st.header("Self Service Resources")
+    elif selected == "Resources":
+        st.header("Resources")
         # Displaying buttons for various resources
         st.subheader("Useful Links")
         col1, col2, col3, col4 = st.columns(4)
